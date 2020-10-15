@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Entrega</string>
+    <string name="nombre">Marcelo Burgueno</string>
+    <string name="fecha_de_nacimiento">20/12/2020</string>
+    <string name="telefono">757589</string>
+    <string name="email">odioestecurso@gmail.com</string>
+    <string name="descripcion_del_contacto">Iara Iara</string>
+</resources>
